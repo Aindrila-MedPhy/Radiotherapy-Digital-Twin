@@ -63,7 +63,7 @@ Adaptive Replanning
 
 ## Example Result
 <p align="center">
-<img src="results/DigitalTwinResults.png" width="750">
+<img src="results/Adaptive Radiotherapy Using a Digital Twin with Kalman Filter State Estimation.jpeg" width="750">
 </p>
 
 The digital twin continuously updates the mechanistic tumour model using noisy imaging measurements. Adaptive replanning is triggered whenever the relative prediction error exceeds the predefined threshold.
